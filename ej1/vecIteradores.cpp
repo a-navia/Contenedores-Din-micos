@@ -3,6 +3,8 @@
 #include <vector>
 
 void vecIteradores::vectorIteradores() {
+std::cout << "Contenedor secuencia ej1" << std::endl;
+
     std::vector<int> numeros;
     numeros.push_back(10);
     numeros.push_back(20);
